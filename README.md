@@ -48,21 +48,6 @@ Renty provides a secure, easy-to-use platform that:
 - Fast processing via smartphone
 - Digital rental agreement signed directly in the app during pickup
 
-## 🏆 Competitive Analysis
-
-### Direct Competition (P2P)
-**gearo**
-- 20,000+ users
-- €10M equipment value (as of 2017)
-- Slower processing via website
-
-### Indirect Competition (B2C)
-**Grover**
-- €250M investment in early 2020
-- Wide product range
-- No focus on hobby photography market
-- No opportunity for private individuals to earn income
-
 ## 🎯 Target Audience
 
 ### Renters
@@ -84,21 +69,6 @@ Renty provides a secure, easy-to-use platform that:
 - **14.6 million** people in Germany are interested in photography
 - **600,000** cameras sold annually in Germany
 - Large volume of classified ads for photography equipment
-
-## 🚀 Roadmap
-
-### Q3 2022
-- **€500K Investment Round**
-  - App development
-  - Marketing launch
-
-### Q4 2022
-- **App Launch**
-
-### Q4 2023
-- **€1M Revenue Volume Target**
-  - Projected 2,000 active users
-  - Generating €500/month through rentals
 
 ## 🔑 Business Model
 
