@@ -1,4 +1,6 @@
-# Renty
+<img width="967" height="372" alt="image" src="https://github.com/user-attachments/assets/501d85aa-6b60-4de0-ae71-6a1b4b63f842" />
+
+# <img width="25" height="25" alt="Renty-App-Icon-1024x1024px_white" src="https://github.com/user-attachments/assets/9656ba3a-995e-412b-a505-5da8c6ac5dcb" /> Renty 
 
 **Rent Affordable, Skip the Expensive Purchase**
 
@@ -21,6 +23,8 @@ Renty is a peer-to-peer platform that enables photographers to build an addition
 - Associated with many uncertainties and risks
 
 ## 💡 Our Solution
+
+<img width="1018" height="447" alt="image" src="https://github.com/user-attachments/assets/f5b093e0-d97c-4a7d-9627-5c49dd06c929" />
 
 Renty provides a secure, easy-to-use platform that:
 
